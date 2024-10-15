@@ -20,4 +20,4 @@ Face Detection Live is a real-time face recognition tool that utilizes camera in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Face-Detection-Live.git
+   git clone https://github.com/Nayeem-stud/Face-Detection-Live.git
